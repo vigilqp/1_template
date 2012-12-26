@@ -1,0 +1,21 @@
+/*
+************************
+* = 960 Styles Sheets
+************************
+*/
+	
+@import url('reset.css');
+
+@import	url('text.css');
+
+@import url('960_24_col.css');
+
+
+/*
+************************
+* =Personal Style
+************************
+*/
+
+@import url('style.css');
+	
